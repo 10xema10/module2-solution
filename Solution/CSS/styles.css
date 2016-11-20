@@ -21,7 +21,8 @@ p {
   width: 30%;
   height: 10%;
   float: right;
-  margin-top: 0px;
+  margin-top: -1px;
+  margin-right: -1px;
  }
 
 #chicken{
